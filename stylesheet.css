@@ -21,3 +21,8 @@ body {
   float: left;
   padding: 33px 20px;
 }
+
+iframe {
+  max-width: 100%; /* 親要素の幅以下に */
+	border: none;
+}
