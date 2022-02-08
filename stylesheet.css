@@ -28,3 +28,7 @@ iframe {
   max-width: 100%; /* 親要素の幅以下に */
 	border: none;
 }
+
+li {
+  list-style: none;
+}
