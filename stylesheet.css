@@ -23,6 +23,8 @@ body {
 }
 
 iframe {
+  width: 100%; /* 親要素の幅と合わせる */
+  height: 150px;
   max-width: 100%; /* 親要素の幅以下に */
 	border: none;
 }
